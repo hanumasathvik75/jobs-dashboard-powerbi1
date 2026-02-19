@@ -146,3 +146,10 @@ Top sources for job listings:
 - The **majority of data jobs (85%)** are on-site, with only ~15% offering remote/WFH options.
 - **LinkedIn** is the dominant platform for data job postings.
 - Most Data Engineer roles are **full-time (88.7%)** and do **not require a specific degree (52.6%)**.
+
+<img width="1174" height="741" alt="{37D785F1-562D-4CCB-92F2-D0316E52294B}" src="https://github.com/user-attachments/assets/73504165-6a41-4fb1-8376-7b26c2bec046" />
+
+
+<img width="1165" height="723" alt="{E63154B1-D51C-406C-8B75-6355251AC8F0}" src="https://github.com/user-attachments/assets/a4be4aa0-b9b0-4a78-9b44-683e2c6d37df" />
+
+
